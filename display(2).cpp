@@ -1,4 +1,4 @@
-//display.cpp
+//File : display.cpp
 
 
 // Funksioni për të shfaqur fjalën me shkronjat e gjetura dhe ato të fshehura si "_"
