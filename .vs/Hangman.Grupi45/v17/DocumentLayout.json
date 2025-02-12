@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\GitHub\\Hangman.Grupi45\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\GitHub\\Hangman.Grupi45\\setup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:setup.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Documents\\GitHub\\Hangman.Grupi45\\display(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:display(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,14 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "setup.cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Hangman.Grupi45\\setup.cpp",
-              "RelativeDocumentMoniker": "setup.cpp",
-              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Hangman.Grupi45\\setup.cpp",
-              "RelativeToolTip": "setup.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Title": "display(2).cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\GitHub\\Hangman.Grupi45\\display(2).cpp",
+              "RelativeDocumentMoniker": "display(2).cpp",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\GitHub\\Hangman.Grupi45\\display(2).cpp",
+              "RelativeToolTip": "display(2).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-12T19:36:47.935Z",
+              "WhenOpened": "2025-02-12T21:01:36.694Z",
               "EditorCaption": ""
             }
           ]
