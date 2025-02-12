@@ -1,9 +1,4 @@
-// File: display.cpp
-#include <iostream>
-#include <vector>
-#include <string>
 
-using namespace std;
 
 // Funksioni per te shfaqur fjalen me shkronjat e gjetura dhe ato te fshehura si "_"
 void shfaqFjalen(const string& fjala, const vector<bool>& gjuajtura) {
