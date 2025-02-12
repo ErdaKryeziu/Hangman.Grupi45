@@ -1,4 +1,7 @@
-// Funksioni për të shfaqur fjalën me shkronjat e gjetura dhe ato të fshehura si "_"
+//display.cpp
+
+
+// Funksioni pÃ«r tÃ« shfaqur fjalÃ«n me shkronjat e gjetura dhe ato tÃ« fshehura si "_"
 void shfaqFjalen(const string& fjala, const vector<bool>& gjuajtura) {
     for (int i = 0; i < fjala.size(); ++i) {
         if (gjuajtura[i]) {
@@ -11,7 +14,7 @@ void shfaqFjalen(const string& fjala, const vector<bool>& gjuajtura) {
     cout << endl;
 }
 
-// Kontrollon nëse e gjithë fjala është gjuajtur saktë
+// Kontrollon nÃ«se e gjithÃ« fjala Ã«shtÃ« gjuajtur saktÃ«
 bool eshteFjalaEgjuajtur(const vector<bool>& gjuajtura) {
     for (bool gjuajtur : gjuajtura) {
         if (!gjuajtur) return false;
