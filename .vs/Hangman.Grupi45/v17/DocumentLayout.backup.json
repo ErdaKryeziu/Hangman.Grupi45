@@ -1,9 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\Hangman.Grupi45\\Hangman.Grupi45\\",
+  "WorkspaceRootPath": "C:\\Users\\PULSE Electronics\\OneDrive\\Desktop\\Hangman.Grupi45\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\OneDrive\\Desktop\\Hangman.Grupi45\\Hangman.Grupi45\\display(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PULSE Electronics\\OneDrive\\Desktop\\Hangman.Grupi45\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PULSE Electronics\\OneDrive\\Desktop\\Hangman.Grupi45\\input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PULSE Electronics\\OneDrive\\Desktop\\Hangman.Grupi45\\display(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:display(2).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,12 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -31,15 +35,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "display(2).cpp",
-              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Hangman.Grupi45\\Hangman.Grupi45\\display(2).cpp",
-              "RelativeDocumentMoniker": "display(2).cpp",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Hangman.Grupi45\\Hangman.Grupi45\\display(2).cpp",
-              "RelativeToolTip": "display(2).cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\Users\\PULSE Electronics\\OneDrive\\Desktop\\Hangman.Grupi45\\game.cpp",
+              "RelativeDocumentMoniker": "game.cpp",
+              "ToolTip": "C:\\Users\\PULSE Electronics\\OneDrive\\Desktop\\Hangman.Grupi45\\game.cpp",
+              "RelativeToolTip": "game.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-12T21:01:36.694Z",
+              "WhenOpened": "2025-02-13T22:51:28.506Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "input.cpp",
+              "DocumentMoniker": "C:\\Users\\PULSE Electronics\\OneDrive\\Desktop\\Hangman.Grupi45\\input.cpp",
+              "RelativeDocumentMoniker": "input.cpp",
+              "ToolTip": "C:\\Users\\PULSE Electronics\\OneDrive\\Desktop\\Hangman.Grupi45\\input.cpp",
+              "RelativeToolTip": "input.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-13T00:33:57.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "display(2).cpp",
+              "DocumentMoniker": "C:\\Users\\PULSE Electronics\\OneDrive\\Desktop\\Hangman.Grupi45\\display(2).cpp",
+              "RelativeDocumentMoniker": "display(2).cpp",
+              "ToolTip": "C:\\Users\\PULSE Electronics\\OneDrive\\Desktop\\Hangman.Grupi45\\display(2).cpp",
+              "RelativeToolTip": "display(2).cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-12T21:01:36.694Z"
             }
           ]
         }
