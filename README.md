@@ -9,8 +9,7 @@ Nëse është gabim, humbet një përpjekje.
 Qëllimi është të gjesh të gjithë fjalën para se të mbarojnë përpjekjet!
 
  
-
-Si të kontribuoni Klononi projektin në kompjuterin tuaj:
+Clone projektin në kompjuterin tuaj:
 git clone https://github.com/username/hangman-cpp.git 
 
 📂 Struktura e projektit
