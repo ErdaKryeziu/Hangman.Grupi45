@@ -20,5 +20,9 @@ setup.cpp → Zgjedh një fjalë të rastësishme
 display.cpp → Shfaq fjalën dhe përpjekjet e mbetura
 input.cpp → Menaxhon hyrjen nga përdoruesi
 
+Ekzektuimi i programit në Visual Studio
+![Screenshot 2025-02-14 183016](https://github.com/user-attachments/assets/208fcd8f-3a00-4157-ac77-ae2f30343f74)
+![Screenshot 2025-02-14 183026](https://github.com/user-attachments/assets/816b08e5-d16b-4dae-b70a-8aa950f6ac9e)
+
 
 
