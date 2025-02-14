@@ -10,7 +10,7 @@ Qëllimi është të gjesh të gjithë fjalën para se të mbarojnë përpjekjet
 
  
 Clone projektin në kompjuterin tuaj:
-git clone [https://github.com/username/hangman-cpp.git ](https://github.com/ErdaKryeziu/Hangman.Grupi45.git)
+git clone https://github.com/ErdaKryeziu/Hangman.Grupi45.git
 
 📂 Struktura e projektit
 main.cpp → Kontrollon rrjedhën kryesore të lojës
