@@ -2,20 +2,17 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include "setup.cpp"
-#include "display.cpp"
-#include "input.cpp"
 
 using namespace std;
 
 int main() {
-    // Merr fjalët dhe zgjedh një fjalë rastësisht
+    // Merr fjalÃ«t dhe zgjedh njÃ« fjalÃ« rastÃ«sisht
     vector<string> fjalet = merrFjalet();
     string fjala = zgjidhFjaleRastesisht(fjalet);
 
-    vector<bool> gjuajtura(fjala.size(), false); // Mban gjurmë të letrave të gjuajtura
-    int perpjekje = 6; // Numri i përpjekjeve të lejuara
-    string gjuajtjet = ""; // Mban të gjitha letrat e gjuajtura
+    vector<bool> gjuajtura(fjala.size(), false); // Mban gjurmÃ« tÃ« letrave tÃ« gjuajtura
+    int perpjekje = 6; // Numri i pÃ«rpjekjeve tÃ« lejuara
+    string gjuajtjet = ""; // Mban tÃ« gjitha letrat e gjuajtura
 
     cout << "Miresevini ne Hangman!" << endl;
 
@@ -28,17 +25,17 @@ int main() {
         char gjuaj;
         merrGjuajtjen(gjuaj);
 
-        // Kontrollo nëse shkronja është gjuajtur tashmë
+        // Kontrollo nÃ«se shkronja Ã«shtÃ« gjuajtur tashmÃ«
         if (!eshteShkronjeEValide(gjuaj, gjuajtjet)) {
             cout << "E keni gjuajtur tashme kete shkronje!" << endl;
             continue;
         }
 
-        gjuajtjet += gjuaj; // Ruaj shkronjën e gjuajtur
+        gjuajtjet += gjuaj; // Ruaj shkronjÃ«n e gjuajtur
 
         bool gjetShkronje = false;
 
-        // Kontrollo nëse shkronja e gjuajtur është në fjalë
+        // Kontrollo nÃ«se shkronja e gjuajtur Ã«shtÃ« nÃ« fjalÃ«
         for (int i = 0; i < fjala.size(); ++i) {
             if (fjala[i] == gjuaj) {
                 gjuajtura[i] = true;
@@ -51,7 +48,7 @@ int main() {
             cout << "Gjuajtje gabim!" << endl;
         }
 
-        // Kontrollo nëse fjala është gjuajtur plotësisht
+        // Kontrollo nÃ«se fjala Ã«shtÃ« gjuajtur plotÃ«sisht
         if (eshteFjalaEgjuajtur(gjuajtura)) {
             cout << "Urime! E keni gjuajtur fjalen: " << fjala << endl;
             break;
